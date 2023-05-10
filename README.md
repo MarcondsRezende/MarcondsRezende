@@ -1,5 +1,5 @@
-Data Scientist and Data Analyst, focused on transmit information.
+Data Scientist and Data Analyst, focused on transmit smart information.
 
-Currently working in Saffi, using Python, SQL and Power BI.
+Currently working main with Python, SQL and Power BI.
 
-Same, working in my project using, JavaScript, HTML, CSS, Python, API's, React.js
+Same, working in my project using, JavaScript, API REST, Node.js
